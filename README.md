@@ -29,8 +29,9 @@ This project is designed to detect smoke and high temperature using an Arduino b
 ---
 
 ## Circuit Diagram
-![Circuit Diagram](link-to-your-circuit-image.png)  
-*(Upload your circuit image and replace the link above)*
+![Circuit Diagram](circuit.png)
+[View on Tinkercad](https://www.tinkercad.com/things/9rVnFALtCHp-smashing-inari-kieran)
+
 
 ---
 
